@@ -3,4 +3,4 @@ Moonbeamコミュニティの技術大使を申請する際の自己PR動画で�
 
 # 下記の画像またはリンクをクリックすると、関連動画をご覧いただけます。
 # Click the image or link below to watch the related video.
-[![Vtuber Video For Technical Ambassador Of Moonbeam](asset/page.png)](https://www.youtube.com/watch?v=KQTaTnSiD7I)
+[![Vtuber Video For Technical Ambassador Of Moonbeam](page.png)](https://www.youtube.com/watch?v=KQTaTnSiD7I)
